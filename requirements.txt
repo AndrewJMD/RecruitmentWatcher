@@ -1,0 +1,5 @@
+gevent
+requests
+BeautifulSoup4
+steam
+steam[client]

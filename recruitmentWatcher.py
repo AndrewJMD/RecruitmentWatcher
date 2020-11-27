@@ -18,7 +18,7 @@ unitForumURL = 'https://steamcommunity.com/app/107410/discussions/21/'
 #begin as empty string but is used to refrence if the found post is new or not
 oldPosts = []
 #The URL for the discord Webhook
-url = "https://discord.com/api/webhooks/781574294832545861/jxuma-UMbc5gGbBmsLR4aIMVZdiM8cJkmrCf71VWpRy7us68fsdL7DsloyfdqkKrxznx"
+url = "Replace Discord Webhook Here"
 
 #Creating the steam client
 client = SteamClient()
